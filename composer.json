@@ -2,6 +2,7 @@
   "name": "pucci/laravel-helpers",
   "description": "Pacchetto Laravel per salvare e gestire file",
   "type": "library",
+  "version": "1.0.0",
   "license": "MIT",
   "autoload": {
     "psr-4": {
@@ -22,11 +23,5 @@
         "FileSaver": "Pucci\\LaravelHelpers\\Facades\\FileSaver"
       }
     }
-  },
-  "repositories": [
-        {
-            "type": "path",
-            "url": "../laravel-helpers"
-        }
-    ]
+  }
 }
